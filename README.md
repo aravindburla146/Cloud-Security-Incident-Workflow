@@ -1,4 +1,4 @@
-# SentinelAI – Cloud Security Alert Triage & Resolution
+# Cloud Security Alert Triage & Resolution
 
 ## Project Overview
 
